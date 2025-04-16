@@ -1,59 +1,50 @@
-# Welcome to My GitHub Profile!
+<h1 align="center">Hi there 👋, I'm Shantanu Sharma</h1>
 
-Hi there! I'm Shantanu Sharma, a passionate developer, Al enthusiast, and data engineer. I love working on Data analytics and its Al apps, exploring new data, and optimizing machine learning models.
-
-## Tech Stack
-
-### Programming & Core Concepts
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Python-3776AB ?style=for-the-badge&logo=python&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Flask-000000 ?style=for-the-badge&logo=flask&logoColor=white" />
-
-<img src="https://img.shields.io/badge/SQL-4479A1 ?style=for-the-badge&logo=mysql&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Vector%20DB -005571 ?style=for-the-badge&logo=redis&logoColor=white" />
-
+<p align="center">
+  <em>A passionate Data Analyst who loves turning raw data into meaningful insights 💡</em>
 </p>
 
-###
+---
 
-<p align="left">
+### 💼 What I Do
 
-<img src="https://img.shields.io/badge/AWS-232F3E ?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+- 📊 Dive deep into data to find hidden patterns and trends  
+- 🛠 Build interactive dashboards and Streamlit apps  
+- 📈 Perform data analysis, visualization, and storytelling  
+- 🧠 Apply machine learning to solve real-world business problems  
+- 🤝 Collaborate on exciting open-source and data-driven projects  
 
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4 ?style=for-the-badge&logo=google-cloud&logoColor=white" />
+---
 
-<img src="https://img.shields.io/badge/Azure-0078D4 ?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+### 🧰 Tools & Technologies
 
-<img src="https://img.shields.io/badge/Docker-2496ED ?style=for-the-badge&logo=docker&logoColor=white" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3C3C3C?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<img src="https://img.shields.io/badge/Kubernetes-326CE5 ?style=for-the-badge&logo=kubernetes&logoColor=white" />
+---
 
+### 📂 Featured Projects
+
+- 🔹 [EDA App](https://github.com/yourusername/eda-app) – Auto-generated EDA reports using Streamlit  
+- 🔹 [Sales Dashboard](https://github.com/yourusername/sales-dashboard) – Track KPIs, trends, and insights  
+- 🔹 [Customer Segmentation](https://github.com/yourusername/customer-segmentation) – RFM-based clustering for marketing strategies  
+
+---
+
+### 📫 Let's Connect
+
+- 🌐 [Portfolio Website](https://yourwebsite.com)
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- ✉️ Email: yourname@email.com
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
 </p>
-
-### Al & Machine Learning
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00 ?style=for-the-badge&logo=mlflow&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Deep%20Learning-FF0000 ?style=for-the-badge&logo=pytorch&logoColor=white" />
-
-<img src="https://img.shields.io/badge/TensorFlow -FF6F00 ?style=for-the-badge&logo=tensorflow&logoColor=white" />
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C ?style=for-the-badge&logo=pytorch&logoColor= white" />
-
-</p>
-
-### m Large Language Models (LLMs)
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/GPT-005571 ?style=for-the-badge&logo=openai&logoColor= white" />
-
-<img src="https://img.shields.io/badge/BERT-1F425F ?style=for-the-badge&logo=google&logoColor=white" />
-
-<img src="https://img.shields.io/badge/LLaMA-FF4500 ?s
