@@ -31,9 +31,9 @@
 
 ### 📂 Featured Projects
 
-- 🔹 [EDA App](https://github.com/yourusername/eda-app) – Auto-generated EDA reports using Streamlit  
-- 🔹 [Sales Dashboard](https://github.com/yourusername/sales-dashboard) – Track KPIs, trends, and insights  
-- 🔹 [Customer Segmentation](https://github.com/yourusername/customer-segmentation) – RFM-based clustering for marketing strategies  
+- 🔹 [Employee Attrition Predictor App](https://github.com/shanewayne379/employee-attrition.git) – Prediction for Employee Attrition and showcasing it using Streamlit  
+- 🔹 [Stock Analysis](https://github.com/yourusername/sales-dashboard) – Web app that lets you search any stock by ticker, fetches data from Yahoo Finance, and displays closing prices, last close, volume, and key stats in a chart.  
+- 🔹 [GDP Dashboard](https://github.com/yourusername/customer-segmentation) – RFM-based clustering for marketing strategies  
 
 ---
 
