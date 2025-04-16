@@ -33,7 +33,7 @@
 
 - 🔹 [Employee Attrition Predictor App](https://github.com/shanewayne379/employee-attrition.git) – Prediction for Employee Attrition and showcasing it using Streamlit  
 - 🔹 [Stock Analysis]((https://github.com/shanewayne379/StockAnalysis.git)) – Web app that lets you search any stock by ticker, fetches data from Yahoo Finance, and displays closing prices, last close, volume, and key stats in a chart.  
-- 🔹 [GDP Dashboard](https://github.com/yourusername/customer-segmentation) –Access and analyze GDP data from the World Bank Open Data, reliable source providing figures up to 2022, with occasional gaps in yearly data.
+- 🔹 [GDP Dashboard](https://github.com/shanewayne379/gdp-dashboard.git) –Access and analyze GDP data from the World Bank Open Data, reliable source providing figures up to 2022, with occasional gaps in yearly data.
 
 ---
 
