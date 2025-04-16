@@ -41,10 +41,10 @@
 
 - 🌐 [Portfolio Website](https://yourwebsite.com)
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- ✉️ Email: yourname@email.com
+- ✉️ Email: mastershantanu10@gmail.com
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shantanu&show_icons=true&theme=radical" />
 </p>
