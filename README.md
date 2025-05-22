@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Shantanu Sharma</h1>
+<h1 align="center">Hi, I'm Shantanu Sharma</h1>
 
 <p align="center">
   <em>A passionate Data Analyst who loves turning raw data into meaningful insights 💡</em>
